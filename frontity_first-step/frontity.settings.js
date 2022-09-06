@@ -14,12 +14,12 @@ const settings = {
         "theme": {
           "menu": [
             [
-              "Home",
+              "Accueil",
               "/"
             ],
             [
-              "Nature",
-              "/category/nature/"
+              "Exemple",
+              "/page-d-exemple/"
             ],
             [
               "Travel",
@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "https://test.frontity.org"
+          "url": "http://localhost/frontity/back-wp/wordpress"
         }
       }
     },
